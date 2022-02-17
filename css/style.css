@@ -157,7 +157,7 @@ header:nth-child(2) {
         flex-basis: 325px;
 
         /* justify-items:center; */
-        /* align-self:flex-end; */
+        align-self:flex-end; 
     }
     .gallery, #gallery{
        display: none;
